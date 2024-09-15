@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalSMS.API", "PortalSMS.API\PortalSMS.API.csproj", "{44E58F18-4C4A-469B-AC94-C0F221DA54F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalSMS.BL", "PortalSMS.BL\PortalSMS.BL.csproj", "{815513B3-96D4-4830-8DAC-145D850EC20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalSMS.DAL", "PortalSMS.DAL\PortalSMS.DAL.csproj", "{BBE97401-663D-4923-9D21-F82716661B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E58F18-4C4A-469B-AC94-C0F221DA54F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E58F18-4C4A-469B-AC94-C0F221DA54F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E58F18-4C4A-469B-AC94-C0F221DA54F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E58F18-4C4A-469B-AC94-C0F221DA54F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815513B3-96D4-4830-8DAC-145D850EC20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815513B3-96D4-4830-8DAC-145D850EC20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815513B3-96D4-4830-8DAC-145D850EC20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815513B3-96D4-4830-8DAC-145D850EC20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE97401-663D-4923-9D21-F82716661B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE97401-663D-4923-9D21-F82716661B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE97401-663D-4923-9D21-F82716661B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE97401-663D-4923-9D21-F82716661B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F014289-E5BF-4C45-8511-D3035B6EDB57}
+	EndGlobalSection
+EndGlobal

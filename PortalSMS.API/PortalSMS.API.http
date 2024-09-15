@@ -1,0 +1,6 @@
+@PortalSMS.API_HostAddress = http://localhost:5174
+
+GET {{PortalSMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
